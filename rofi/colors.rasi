@@ -1,0 +1,12 @@
+
+* {
+    background: #000D15;
+    foreground: #c9dbe9;
+    selected-background: #2B95D7;
+    selected-foreground: #c9dbe9;
+    active-background: #69C6EC;
+    active-foreground: #c9dbe9;
+    urgent-background: #2B95D7;
+    urgent-foreground: #c9dbe9;
+    border-color: #000D15;
+}
